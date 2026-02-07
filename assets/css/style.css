@@ -1595,7 +1595,7 @@ body {
   position: absolute;
   right: 0;
   bottom: -10px;
-  background-image: url(/assets/imgs/block5-decor.svg);
+  background-image: url(../../assets/imgs/block5-decor.svg);
   width: 220px;
   height: 13px;
   background-size: contain;
